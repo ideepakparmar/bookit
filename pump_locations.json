@@ -1,0 +1,52 @@
+{
+    "_id" : ObjectId("5f97d0b2ca2bb785e202cadb"),
+    "country" : "INDIA",
+    "city" : "Chandigarh",
+    "address" : "sector 33",
+    "loc" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            30.717180, 
+            76.775616
+        ]
+    }
+}
+{
+    "_id" : ObjectId("5f97d0b2ca2bb785e202cadc"),
+    "country" : "INDIA",
+    "city" : "Chandigarh",
+    "address" : "sector 22",
+    "loc" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            30.723304, 
+            76.771576
+        ]
+    }
+}
+{
+    "_id" : ObjectId("5f97d0b2ca2bb785e202cadd"),
+    "country" : "INDIA",
+    "city" : "Chandigarh",
+    "address" : "sector 34",
+    "loc" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            30.718775, 
+            76.768396
+        ]
+    }
+}
+{
+    "_id" : ObjectId("5f97d0b2ca2bb785e202cade"),
+    "country" : "INDIA",
+    "city" : "Chandigarh",
+    "address" : "sector 22",
+    "loc" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            30.730456, 
+            76.773954
+        ]
+    }
+}
